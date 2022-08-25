@@ -4,6 +4,9 @@ size(500,500);
 }
 void draw()
 {
+  
+fill(#AFFFFE);
+ellipse(250,250,600,600);
 fill(#EEF53E);
 ellipse(200,280,50,270);
 fill(#EEF53E);
@@ -17,12 +20,12 @@ ellipse(250,320,130,200);
 fill(#EEF53E);
 ellipse(290,280,50,270);
 fill(#A8DE5A);
-ellipse(260,110,110,120);
+ellipse(260,110,115,120);
 //perch
 fill(#4D2607);
 rect(0,377,500,10);
 //feet
-fill(#D4DE5C);
+fill(#FBAFFF);
 ellipse(205,370,40,20);
 ellipse(255,370,40,20);
 
